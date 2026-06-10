@@ -18,12 +18,4 @@ The environment consists of an attacker machine and various intentionally vulner
 
 ---
 
-## 📂 Repository Structure
 
-```text
-offensive-security-lab/
-├── Setup/                  # Vagrantfiles, Docker Compose files, and provisioning scripts
-├── Custom-Targets/         # Source code for intentionally vulnerable apps and local challenges
-├── Exploits-and-Scripts/   # Python automation scripts and custom C payload generators
-├── Wordlists/              # Custom compiled dictionaries and fuzzing lists
-└── Lab-Notes/              # Network maps, configuration details, and attack methodologies
